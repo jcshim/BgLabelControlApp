@@ -25,3 +25,6 @@ https://docs.microsoft.com/windows/apps/winui/winui3/
 Learn more about C++/WinRT here:
 http://aka.ms/cppwinrt/
 ========================================================================
+
+[참고]
+[1] https://learn.microsoft.com/ko-kr/windows/uwp/cpp-and-winrt-apis/xaml-cust-ctrl 
